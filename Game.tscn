@@ -39,9 +39,6 @@ transform = Transform( 0.927001, -0.371426, 0.0520815, 0.0960859, 0.369413, 0.92
 anchor_right = 1.0
 margin_bottom = 40.0
 script = ExtResource( 2 )
-__meta__ = {
-"_edit_use_anchors_": false
-}
 
 [node name="ColorRect" type="ColorRect" parent="HUD"]
 anchor_right = 1.0
